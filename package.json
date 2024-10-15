@@ -1,0 +1,21 @@
+{
+  "name": "readmailfromexcelsheets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "imap-simple": "^5.1.0",
+    "mailparser": "^3.7.1",
+    "node-imap": "^0.9.6",
+    "open": "^10.1.0",
+    "quoted-printable": "^1.0.1",
+    "xlsx": "^0.18.5"
+  }
+}
